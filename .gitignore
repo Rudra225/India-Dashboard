@@ -1,0 +1,11 @@
+__pycache__/
+*.log
+scratch/
+archive/
+fetch_lok_sabha.py
+fetch_winners.py
+update_economy_data.py
+verify_macro.py
+check_links.py
+.env
+*.html
