@@ -9,3 +9,5 @@ verify_macro.py
 check_links.py
 .env
 *.html
+
+scrapers/
