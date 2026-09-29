@@ -40,3 +40,10 @@ All data sourced from:
 - https://data.worldbank.org/country/india — GDP growth
 - https://fred.stlouisfed.org — Historical FX rates
 - https://dpiit.gov.in — FDI statistics
+
+
+## ⚠️ Legal Disclaimer
+**Educational Project Only.** The data presented in this dashboard (especially asset and liability declarations of public officials) is programmatically scraped from public sources (Election Commission of India / ADR MyNeta). Due to the nature of unstructured HTML parsing and data extraction, **accuracy is not guaranteed**.
+- This repository is provided 'as is' for research and educational purposes only.
+- The creator assumes no legal liability for any discrepancies, errors, or misrepresentations in the parsed data.
+- For verified, official figures, please consult the original affidavits filed with the Election Commission of India at https://affidavit.eci.gov.in.
